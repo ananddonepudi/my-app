@@ -16,9 +16,9 @@ keywords:
   - uat
   - prod
 
-home: https://github.com/your-org/my-app
+home: https://github.com/ananddonepudi/my-app
 sources:
-  - https://github.com/your-org/my-app
+  - https://github.com/ananddonepudi/my-app
 
 maintainers:
   - name: Anand
