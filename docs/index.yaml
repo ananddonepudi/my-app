@@ -5,7 +5,7 @@ entries:
       category: application
     apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-28T15:07:54.1593726+05:30"
+    created: "2026-01-28T15:20:51.4966166+05:30"
     description: A Helm chart for deploying my-app to Kubernetes
     digest: 37fe1430822a030510771e75bdceb1e81309624979039ef7c05abe1229f27206
     home: https://github.com/ananddonepudi/my-app
@@ -24,6 +24,6 @@ entries:
     - https://github.com/ananddonepudi/my-app
     type: application
     urls:
-    - https://github.com/ananddonepudi/my-app/charts/my-app-0.4.0.tgz
+    - https://ananddonepudi.github.io/my-app/docs/my-app-0.4.0.tgz
     version: 0.4.0
-generated: "2026-01-28T15:07:54.1582297+05:30"
+generated: "2026-01-28T15:20:51.4960456+05:30"
