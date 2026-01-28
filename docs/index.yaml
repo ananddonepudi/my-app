@@ -24,6 +24,6 @@ entries:
     - https://github.com/ananddonepudi/my-app
     type: application
     urls:
-    - https://ananddonepudi.github.io/my-app/docs/my-app-0.4.0.tgz
+    - https://ananddonepudi.github.io/my-app/my-app-0.4.0.tgz
     version: 0.4.0
 generated: "2026-01-28T15:20:51.4960456+05:30"
