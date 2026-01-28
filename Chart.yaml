@@ -4,7 +4,7 @@ description: A Helm chart for deploying my-app to Kubernetes
 type: application
 
 # Helm chart version (MUST bump on every push)
-version: 0.1.0
+version: 0.4.0
 
 # Application version (Docker image version)
 appVersion: "1.0.0"

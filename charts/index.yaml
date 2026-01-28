@@ -1,0 +1,29 @@
+apiVersion: v1
+entries:
+  my-app:
+  - annotations:
+      category: application
+    apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-01-28T15:07:54.1593726+05:30"
+    description: A Helm chart for deploying my-app to Kubernetes
+    digest: 37fe1430822a030510771e75bdceb1e81309624979039ef7c05abe1229f27206
+    home: https://github.com/ananddonepudi/my-app
+    icon: https://raw.githubusercontent.com/helm/helm/main/docs/logos/helm.png
+    keywords:
+    - my-app
+    - kubernetes
+    - helm
+    - uat
+    - prod
+    maintainers:
+    - email: ananddonepudi@gmail.com
+      name: Anand
+    name: my-app
+    sources:
+    - https://github.com/ananddonepudi/my-app
+    type: application
+    urls:
+    - https://github.com/ananddonepudi/my-app/charts/my-app-0.4.0.tgz
+    version: 0.4.0
+generated: "2026-01-28T15:07:54.1582297+05:30"
